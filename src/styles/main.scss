@@ -1,0 +1,25 @@
+
+.banner{
+    background-image: url('../images/pokemon.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    h1{
+        text-align: center;
+        background-color: rgba(255,255,255,0.5);
+        padding: 50px 30px;
+    }
+}
+body{
+    margin: 0!important;
+}
+.about-conatiner{
+    height: 100vh;
+    background-image: repeating-linear-gradient(105deg, transparent 0px, transparent 3px,rgb(255,255,255) 3px, rgb(255,255,255) 28px),repeating-linear-gradient(333deg, transparent 0px, transparent 3px,rgb(255,255,255) 3px, rgb(255,255,255) 28px),linear-gradient(90deg, hsl(300,76%,69%),hsl(351.429,76%,69%),hsl(42.857,76%,69%),hsl(94.286,76%,69%),hsl(145.714,76%,69%),hsl(197.143,76%,69%),hsl(248.571,76%,69%));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; }
