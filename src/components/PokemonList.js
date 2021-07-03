@@ -42,7 +42,7 @@ const PokemonList = (props) => {
             }
             </div>
             <div>
-                <button onClick={handleShowMorePosts} className="load-btn">Load more</button>
+                <button onClick={handleShowMorePosts} className="load-btn" id="next-btn">↓</button>
             </div>
         </div>
 
