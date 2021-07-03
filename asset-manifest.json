@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PokeWorld/static/css/main.5ab2ff58.chunk.css",
+    "main.css": "/PokeWorld/static/css/main.c27cade6.chunk.css",
     "main.js": "/PokeWorld/static/js/main.264ab17c.chunk.js",
     "main.js.map": "/PokeWorld/static/js/main.264ab17c.chunk.js.map",
     "runtime-main.js": "/PokeWorld/static/js/runtime-main.4603f70b.js",
@@ -8,14 +8,14 @@
     "static/js/2.4ab86fe3.chunk.js": "/PokeWorld/static/js/2.4ab86fe3.chunk.js",
     "static/js/2.4ab86fe3.chunk.js.map": "/PokeWorld/static/js/2.4ab86fe3.chunk.js.map",
     "index.html": "/PokeWorld/index.html",
-    "static/css/main.5ab2ff58.chunk.css.map": "/PokeWorld/static/css/main.5ab2ff58.chunk.css.map",
+    "static/css/main.c27cade6.chunk.css.map": "/PokeWorld/static/css/main.c27cade6.chunk.css.map",
     "static/js/2.4ab86fe3.chunk.js.LICENSE.txt": "/PokeWorld/static/js/2.4ab86fe3.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/PokeWorld/static/media/pokemon.9a0688b0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4603f70b.js",
     "static/js/2.4ab86fe3.chunk.js",
-    "static/css/main.5ab2ff58.chunk.css",
+    "static/css/main.c27cade6.chunk.css",
     "static/js/main.264ab17c.chunk.js"
   ]
 }
